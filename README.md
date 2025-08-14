@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Due to recent shift in GitHub direction,
+you will no loger find my personal projects here.
+Account used only for sponsoring GitHub projects
+and contributing to organisations who stayed here.
+
+If you are looking for me,
+find me at https://codeberg.org/stepech
+
 <!--
 **stepech/stepech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
